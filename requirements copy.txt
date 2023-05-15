@@ -37,7 +37,7 @@ pandocfilters==1.4.2
 pycosat==0.6.3
 pycparser==2.20
 Pygments==2.6.1
-pymdown-extensions==7.1
+pymdown-extensions==10.0
 pyOpenSSL==19.1.0
 pyrsistent==0.16.0
 PySocks==1.7.1
